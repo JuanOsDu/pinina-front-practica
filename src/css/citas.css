@@ -1,0 +1,13 @@
+.remove-bg {
+    filter:  brightness(1.1);
+    mix-blend-mode: multiply;
+    height: 100px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.cardC{
+   margin-top: 10px;
+}
